@@ -1,8 +1,6 @@
-# 演習：Microsoft 365 Copilot in Wordを使ったスピーチ作成
+# 演習：PowerPoint の Copilot を使用して重要な情報を特定し、要約する
 
-Microsoft 365 Copilot in Wordは、経営層がインパクトのあるスピーチを作成する際の強力なツールです。現代のビジネス環境では、効果的なコミュニケーションがリーダーシップの要となっています。Copilot in Wordは賢い文章作成アシスタントとして、適切なコンテンツを提案し、リアルタイムで文章を改善します。これにより、スピーチ作成が効率化されるだけでなく、明確で一貫性があり、聞き手の心に響くメッセージを作ることができます。
-
-Copilot in Wordを効果的に活用できる経営者は、自分のアイデアを聴衆を魅了する説得力のあるストーリーに変換することができます。このツールは創造性と効率性を高め、聞き手の心に強く響くスピーチの作成を支援します。結果として、ステークホルダーとのより深いつながりを築き、リーダーシップにおいて長期的な影響を与えることができるでしょう。
+https://learn.microsoft.com/ja-jp/training/modules/summarize-simplify-information-with-microsoft-copilot-microsoft-365/3-identify-key-information-summarize-powerpoint
 
 ## Copilotでファイルを参照する方法
 

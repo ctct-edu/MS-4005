@@ -1,15 +1,6 @@
-# 演習：Microsoft 365 Copilot in Loopで面接質問を作成
+# 演習：Microsoft 365 Copilot in Outlook を使用してメッセージと返信のトーンを書き換える
 
-Microsoft 365 Copilot in Loopは、チームがより効果的かつ効率的にコラボレーションするための強力なツールです。Copilot in Loopを使用することで、ワークスペースとページの作成、関連コンテンツを追加するための知能的な検索とテンプレートの使用、他の人との作業の共有が可能になります。Copilot in Loopはアイデアを提案し、プロジェクトの開始を支援できるため、行き詰まったときに作業を進めやすくなります。テキストの下書き作成、テーブルの作成、技術プロジェクトのコード生成、さらには質問への迅速な回答も可能です。
-
-HR担当者として、Copilot in Loopが採用プロセスから従業員管理、重要文書の処理、内部コミュニケーションの管理まで、HR業務のさまざまな側面でサポートできることに魅力を感じています。
-
-Copilot in Loopの主な利点：
-
-- **リアルタイムコラボレーション**：HRチームの他のメンバーと同じLoopコンポーネントでリアルタイムに共同作業
-- **クロスプラットフォーム対応**：異なるアプリやデバイスを使用しても変更が即座に反映
-- **多機能な支援**：文書作成、質問生成、プロジェクト管理などの包括的なサポート
-- **柔軟なワークスペース**：プロジェクト別に整理された作業環境
+https://learn.microsoft.com/ja-jp/training/modules/edit-transform-content-with-microsoft-copilot-microsoft-365/5-rewrite-messages-replies-tone-copilot-outlook
 
 ## シナリオ
 

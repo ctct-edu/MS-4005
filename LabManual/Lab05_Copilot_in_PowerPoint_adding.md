@@ -1,13 +1,6 @@
-# 演習：Microsoft 365 Copilot in Outlookで保険会社へのメールを作成
+# 演習：Microsoft 365 Copilot in PowerPoint を使用して、画像やスライドを追加し、プレゼンテーションを整理する
 
-Microsoft 365 Copilot in Outlookは、財務担当者がカスタムメールやメール返信を作成する際の時間と労力を節約するためのAIベースのツールです。Copilotを使用することで、何時間もかけて作成・編集する必要なく、特定のニーズに合わせてCopilotが調整したメールドラフトを素早く生成できます。この演習では、Outlook内のCopilotを使用して、一連のユーザー提供プロンプトに基づいて新しいメールを作成します。
-
-Copilot in Outlookは、以下のような強力な機能を提供します：
-
-- **カスタムメールの自動生成**：複雑なビジネスメールも簡単なプロンプトから作成
-- **トーンと長さの調整**：フォーマル、カジュアル、ダイレクトなど、目的に応じたトーンの設定
-- **コーチング機能**：作成したメールの改善提案と自動適用
-- **反復的な改善**：複数回のコーチングによる段階的な品質向上
+https://learn.microsoft.com/ja-jp/training/modules/edit-transform-content-with-microsoft-copilot-microsoft-365/3-add-images-slides-organize-presentation-copilot-powerpoint
 
 ## 重要な注意事項
 

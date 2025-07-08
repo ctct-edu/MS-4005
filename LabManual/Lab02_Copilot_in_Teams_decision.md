@@ -1,10 +1,6 @@
-# 演習：Microsoft 365 Copilot in PowerPointで営業プレゼンテーションを作成
+# 演習：Teams 会議からの重要な決定とアクションを強調表示する
 
-Microsoft 365 Copilot in PowerPointは、営業担当者がプレゼンテーションを作成・整理する際の強力なツールです。既存の文書を基に、スピーカーノートや参考資料を含む完全なプレゼンテーションに変換したり、シンプルなプロンプトや概要から新しいプレゼンテーションを開始したりすることができます。Copilot in PowerPointを使うことで、営業担当者はプレゼンテーションの内容に集中でき、デザインやフォーマットはツールが自動的に処理してくれます。
-
-Copilotはプレゼンテーションの要約も作成でき、重要なポイントを箇条書きで提供します。この機能は、プレゼンテーションの内容を素早く理解したり、チームと主要なアイデアを共有したりする際に非常に有用です。
-
-さらに、Copilot in PowerPointは、コンテンツに基づいて最適なデザインオプションを提案する新しいデザインアイデアを生成できます。この機能により、プレゼンターは時間と労力を節約し、効果的なメッセージの伝達に集中できるようになります。
+https://learn.microsoft.com/ja-jp/training/modules/summarize-simplify-information-with-microsoft-copilot-microsoft-365/5-highlight-key-decisions-action-items-teams-meetings
 
 ## シナリオ
 

@@ -1,10 +1,6 @@
-# 演習：Microsoft 365 Copilot Chatでプロジェクト計画を作成
+# 演習：Microsoft 365 Copilot in Outlook を使用してメール、返信、会議の議題の下書きを作成する
 
-Microsoft 365 Copilot Chatは、プロジェクトマネージャーやIT担当者がプロジェクト計画を作成・管理する際の強力なツールです。既存のドキュメントや仕様書を基に、包括的なプロジェクト計画を自動生成し、プロジェクトの成功に必要な要素を体系的に整理できます。Copilot Chatを活用することで、プロジェクトの立ち上げが効率化されるだけでなく、潜在的なリスクの特定や必要なリソースの明確化、適切なタイムラインの設定が可能になります。
-
-Copilot Chatの優れた点は、複数のソースから情報を統合し、プロジェクトの要件、スケジュール、リソース配分、リスク管理などの重要な要素を含む詳細なプロジェクト計画を生成できることです。これにより、プロジェクトマネージャーは戦略的な意思決定に集中でき、プロジェクトの成功確率を大幅に向上させることができます。
-
-さらに、Copilot Chatは既存の組織データやメール、チャット、ドキュメントから関連情報を抽出し、現実的で実行可能なプロジェクト計画を作成できるため、プロジェクトの初期段階での計画精度が大幅に向上します。
+https://learn.microsoft.com/ja-jp/training/modules/create-draft-content-with-microsoft-copilot-microsoft-365/4-draft-emails-replies-meeting-agendas-microsoft-copilot-outlook
 
 ## シナリオ
 
