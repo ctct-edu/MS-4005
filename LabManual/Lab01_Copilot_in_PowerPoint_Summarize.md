@@ -1,6 +1,6 @@
 # 演習：PowerPoint の Copilot を使用して重要な情報を特定し、要約する
 
-# MS-4005 演習手順 - PowerPoint で Copilot を使用した重要な情報の特定と要約
+#### 推定時間: 20 分
 
 ## 演習概要
 Microsoft 365 Copilot in PowerPoint は AI を活用した機能で、スライドの作成、デザイン、書式設定を支援します。プレゼンテーションで伝えたい内容を入力すると、Copilot が実現をサポートします。
