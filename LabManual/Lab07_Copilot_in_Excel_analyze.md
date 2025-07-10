@@ -24,7 +24,7 @@
    - メニューからマイファイルを選択し、コピーしたファイルが正しく保存されていることを確認
 
 ### Excel でのファイル オープンと Copilot 起動
-5. マイファイルページで、ファイル一覧から「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を選択します。
+5. マイファイルページで、ファイル一覧から「**Fabrikam Q1 marketing campaigns.xlsx**」を選択します。
 6. ファイルがPower Pointで開いたら、リボンの「ホーム」タブにある **Copilot** アイコンをクリックして、Copilot パネルを開きます。
 
 ## Excel でのテーブル作業の基本
