@@ -7,27 +7,9 @@ Microsoft 365 Copilot in PowerPoint は AI を活用した機能で、スライ�
 
 この演習では、PowerPoint で Copilot を使用して重要な情報を特定し、効果的な要約を作成する方法を学習します。
 
-## 事前準備
-
-### 事前準備：ファイルのOneDriveへのコピー
-
-1. **SharePointサイトへのアクセス**：Microsoft 365のアプリ一覧から「SharePoint」を選択し、**ms-4005**サイトにアクセスします。
-
-2. **ファイルの確認**：サイト内のドキュメントライブラリで「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を見つけます。
-
-3. **ファイルのコピー**：
-   - ファイル名の右側にある「**...**」（その他のオプション）をクリック
-   - メニューから「**コピー**」を選択
-   - 表示されるダイアログのコピー先（メニュー左側）から、「**マイファイル**」を選択
-   - 「**ここにコピー**」をクリック
-
-4. **OneDriveでの確認**：
-   - Microsoft 365のアプリ一覧から「OneDrive」を選択
-   - メニューからマイファイルを選択し、コピーしたファイルが正しく保存されていることを確認
-
-### 2. PowerPoint と Copilot の起動
-5. マイファイルページで、ファイル一覧から「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を選択します。
-6. ファイルがPower Pointで開いたら、リボンの「ホーム」タブにある **Copilot** アイコンをクリックして、Copilot パネルを開きます。
+### PowerPoint と Copilot の起動
+1. マイファイルページで、ファイル一覧から「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を選択します。
+2. ファイルがPower Pointで開いたら、リボンの「ホーム」タブにある **Copilot** アイコンをクリックして、Copilot パネルを開きます。
 
 ## 演習手順
 

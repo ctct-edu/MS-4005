@@ -10,28 +10,6 @@ Microsoft 365 Copilot in PowerPoint は、プレゼンテーションにスラ�
 
 この演習では、PowerPoint の Copilot を使用してプレゼンテーションに効果的にスライドと画像を追加し、整理する方法を学習します。
 
-### 事前準備：ファイルのOneDriveへのコピー
- - 注) Lab02と同じファイルを使用していますので、すでにコピー済み場合は、演習手順に進んでください。
-
-1. **SharePointサイトへのアクセス**：Microsoft 365のアプリ一覧から「SharePoint」を選択し、**ms-4005**サイトにアクセスします。
-
-2. **ファイルの確認**：サイト内のドキュメントライブラリで「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を見つけます。
-
-3. **ファイルのコピー**：
-   - ファイル名の右側にある「**...**」（その他のオプション）をクリック
-   - メニューから「**コピー**」を選択
-   - 表示されるダイアログのコピー先（メニュー左側）から、「**マイファイル**」を選択
-   - 「**ここにコピー**」をクリック
-
-4. **OneDriveでの確認**：
-   - Microsoft 365のアプリ一覧から「OneDrive」を選択
-   - メニューからマイファイルを選択し、コピーしたファイルが正しく保存されていることを確認
-
-### 2. PowerPoint と Copilot の起動
-5. マイファイルページで、ファイル一覧から「**Mystic Spice Premium Chai Market Analysis Presentation.pptx**」を選択します。
-6. ファイルがPower Pointで開いたら、リボンの「ホーム」タブにある **Copilot** アイコンをクリックして、Copilot パネルを開きます。
-
-
 ## 演習手順
 
 ### 1. プロンプトの構成要素を理解する
